@@ -1,0 +1,30 @@
+/* admin.css */
+
+/* Ensure all navbar items have the same background color */
+.navbar-nav .nav-link {
+  color: white !important;
+  background-color: #007bff; /* Primary color */
+  margin-right: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition */
+}
+
+.navbar-nav .nav-link:hover {
+  background-color: #0056b3; /* Darker shade of primary color */
+  color: #ffeb3b !important; /* Light yellow text color on hover */
+}
+
+/* Style the logout button to match the nav links */
+.navbar-nav .btn-primary.nav-link {
+  color: white !important;
+  background-color: #007bff;
+  border: none;
+  padding: 0.5rem 1rem;
+  text-align: center;
+  transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition */
+}
+
+.navbar-nav .btn-primary.nav-link:hover {
+  background-color: #0056b3;
+  color: #ffeb3b !important; /* Light yellow text color on hover */
+}

@@ -1,0 +1,74 @@
+#chat-container {
+  width: 100%;
+  max-width: 600px;
+  background-color: #f8f9fa;
+  border: 1px solid #ced4da;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 30px auto;
+  overflow-y: auto; /* Mengizinkan pengguna menggulir pesan jika lebih dari satu halaman */
+}
+
+#chat-header {
+  background-color: #e9ecef;
+  padding: 15px;
+  border-bottom: 1px solid #ced4da;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+#chat-content {
+  padding: 15px;
+  height: 400px; /* Tinggi konten chat tetap */
+}
+
+#chat-content .chatbot,
+#chat-content .user {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+  border-radius: 20px;
+  max-width: 70%;
+}
+
+#chat-input-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  border-top: 1px solid #ced4da;
+  background-color: #e9ecef;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+#chat-input {
+  flex-grow: 1;
+  padding: 10px;
+  border: 1px solid #ced4da;
+  border-radius: 20px;
+  margin-right: 10px;
+  outline: none;
+  transition: background-color 0.3s; /* Transisi untuk perubahan warna latar belakang */
+}
+
+#chat-send-btn {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s; /* Transisi untuk efek hover */
+}
+
+#chat-send-btn:hover {
+  background-color: #0056b3; /* Warna yang berbeda saat hover */
+}
+
+#chat-content .admin {
+  background-color: #28a745; /* Warna latar belakang untuk pesan admin */
+}
