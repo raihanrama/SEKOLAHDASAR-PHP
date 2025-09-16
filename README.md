@@ -56,8 +56,8 @@ Libraries & Frameworks:
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/username/sekolah-dasar-pondok-gede.git
-cd sekolah-dasar-pondok-gede
+git clone https://github.com/raihanrama/SEKOLAHDASAR-PHP.git
+cd SEKOLAHDASAR-PHP
 ```
 
 2. **Database Setup**
