@@ -87,23 +87,6 @@ sudo systemctl restart apache2
 http://localhost/sekolah-dasar-pondok-gede
 ```
 
-## 🖥️ Screenshots
-
-<div align="center">
-
-### Homepage
-![Homepage](screenshots/homepage.png)
-
-### Daftar Sekolah
-![Daftar Sekolah](screenshots/sekolah-list.png)
-
-### Detail Sekolah
-![Detail Sekolah](screenshots/sekolah-detail.png)
-
-### Peta Interaktif
-![Peta](screenshots/maps.png)
-
-</div>
 
 ## 🎨 Fitur CSS Modern
 
@@ -237,7 +220,7 @@ Kami menyambut kontribusi dari developer lain! Silakan:
 
 ## 🐛 Bug Reports & Feature Requests
 
-Gunakan [GitHub Issues](https://github.com/username/sekolah-dasar-pondok-gede/issues) untuk:
+Gunakan [GitHub Issues](https://github.com/raihanrama/SEKOLAHDASAR-PHP/issues) untuk:
 - 🐛 Melaporkan bug
 - 💡 Request fitur baru  
 - 📖 Pertanyaan dokumentasi
