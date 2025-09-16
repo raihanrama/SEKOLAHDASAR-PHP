@@ -41,10 +41,6 @@ Backend:
 
 Libraries & Frameworks:
 ├── Bootstrap 5 - UI Framework
-├── jQuery - DOM manipulation
-├── Chart.js - Data visualization
-├── Leaflet/Google Maps API - Maps integration
-└── SweetAlert2 - Modern alerts
 ```
 
 
