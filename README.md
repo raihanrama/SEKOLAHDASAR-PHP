@@ -9,8 +9,6 @@
 
 **Platform informasi lengkap untuk sekolah dasar di wilayah Pondok Gede**
 
-[Demo Live](#) | [Dokumentasi](#dokumentasi) | [Kontribusi](#kontribusi)
-
 </div>
 
 ## 📋 Deskripsi
